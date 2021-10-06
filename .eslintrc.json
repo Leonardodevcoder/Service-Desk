@@ -37,7 +37,6 @@
       "func-names": 1,
       "valid-typeof": 1,
       "prettier/prettier": 1
-      // overrideing recommented rules
 
     },
     "extends": [
